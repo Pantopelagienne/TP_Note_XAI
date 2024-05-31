@@ -15,7 +15,7 @@ Programme
 
 Documentations
 
-- Documentation Explainer Dashboard
-- Papier SHAP
-- Papier LIME
-- Interpretable Machine Learning - Molnar
+* [Documentation Explainer Dashboard](https://explainerdashboard.readthedocs.io/en/latest/)
+* [Papier SHAP](https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html)
+* [Papier LIME](https://arxiv.org/abs/1602.04938)
+* [Interpretable Machine Learning - Molnar](https://christophm.github.io/interpretable-ml-book/)
